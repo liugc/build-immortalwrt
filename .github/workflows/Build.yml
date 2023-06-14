@@ -19,7 +19,7 @@ env:
   UPLOAD_OUTPUT: true
 
 jobs:
-   newifi3-d2:
+   rm2100:
     runs-on: ubuntu-20.04
     permissions:
       contents: write
